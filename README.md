@@ -8,8 +8,8 @@ The project is designed to showcase SQL skills such as data cleaning, joins, agg
 
 ## Objectives
 
-• Analyze total sales and revenue trends
-• Identify top-selling products and categories
+• Analyze total sales and revenue trends.
+• Identify top-selling products and categories.
 • Understand customer purchasing behavior
 • Analyze order frequency and average order value
 • Evaluate delivery performance and ratings
