@@ -9,24 +9,35 @@ The project is designed to showcase SQL skills such as data cleaning, joins, agg
 ## Objectives
 
 • Analyze total sales and revenue trends.
+
 • Identify top-selling products and categories.
-• Understand customer purchasing behavior
-• Analyze order frequency and average order value
-• Evaluate delivery performance and ratings
-• Perform data cleaning and transformation using SQL
+
+• Understand customer purchasing behavior.
+
+• Analyze order frequency and average order value.
+
+• Evaluate delivery performance and ratings.
+
+• Perform data cleaning and transformation using SQL.
 
 ## Tools & Technologies
 
 • Database: MySQL
+
 • Language: SQL
+
 • IDE: MySQL Workbench
+
 • Version Control: Git & GitHub
 
 ## Insights Generated
 
 • Identified high-revenue categories contributing most to sales
+
 • Found top-performing products based on order count
+
 • Analyzed customer order patterns and repeat purchases
+
 • Evaluated delivery efficiency and customer ratings
 
 ## Conclusion
